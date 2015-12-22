@@ -17,11 +17,13 @@
     
   ],
 
-  "menus": [
-    ["to be", "or not to be"]
-  ],
+  "menus": [],
 
-  "scripts": ["https://cdn.socket.io/socket.io-1.2.0.js"],
+  "scripts": [],
 
   "onload": "",
+  
+  "ondie": "",
+  
+  "ontick": ""
 }
