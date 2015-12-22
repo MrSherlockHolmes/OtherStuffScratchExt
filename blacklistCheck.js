@@ -17,7 +17,7 @@
     
   ],
 
-  "menus": [],
+  "menus": {},
 
   "scripts": [],
 
